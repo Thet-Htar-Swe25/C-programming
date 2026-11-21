@@ -74,5 +74,3 @@ int main(void)
 
     return 0;
 }
-
-// just for testing the snapshot name in GITHUB.
